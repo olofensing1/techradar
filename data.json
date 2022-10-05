@@ -84,14 +84,14 @@
     "description": "test"
   },
   {
-    "name": "Kennis & Kunde",
+    "name": "AZ-900",
     "ring": "assess",
     "quadrant": "Kennis & Kunde",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
+    "name": "Cloud Support Team",
     "ring": "hold",
     "quadrant": "Organisatie",
     "isNew": "FALSE",
