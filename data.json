@@ -2,63 +2,63 @@
   {
     "name": "Team Cloud bouwblokken",
     "ring": "adopt",
-    "quadrant": "Techniek",
+    "quadrant": "techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Azure Policies",
     "ring": "assess",
-    "quadrant": "Techniek",
+    "quadrant": "techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Integratie Hub",
     "ring": "assess",
-    "quadrant": "Techniek",
+    "quadrant": "techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Broadcom API GW",
     "ring": "trial",
-    "quadrant": "Techniek",
+    "quadrant": "techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Diginetwerk",
     "ring": "adopt",
-    "quadrant": "Techniek",
+    "quadrant": "techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Bos",
     "ring": "trial",
-    "quadrant": "Business",
+    "quadrant": "business",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "VRT",
     "ring": "adopt",
-    "quadrant": "Business",
+    "quadrant": "business",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "TOL",
     "ring": "trial",
-    "quadrant": "Business",
+    "quadrant": "business",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "AZ-900",
     "ring": "assess",
-    "quadrant": "B&O - Kennis & Kunde",
+    "quadrant": "kennisKunde",
     "isNew": "TRUE",
     "description": "test"
   },
