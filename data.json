@@ -2,7 +2,7 @@
   {
     "name": "Babel",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "ikke",
     "isNew": "TRUE",
     "description": "test"
   },
