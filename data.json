@@ -1,27 +1,27 @@
 [
   {
-    "name": "Babel",
+    "name": "Team Cloud bouwblokken",
     "ring": "adopt",
     "quadrant": "tools",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Apache Kafka",
+    "name": "Landing Zones",
     "ring": "trial",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "test"
   },
   {
-    "name": "Android-x86",
+    "name": "Azure Policies",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
+    "name": "Kubernetes",
     "ring": "hold",
     "quadrant": "techniques",
     "isNew": "FALSE",
