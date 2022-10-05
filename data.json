@@ -1,7 +1,63 @@
 [
   {
-    "name": "TOL",
-    "ring": "adopt",
+    "name": "TOL-TTH",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "TOL-VWH",
+    "ring": "assess",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Afas - SaaS",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Afas Rapportage - Azure",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Moderne werkplek - DWO",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Add-On werkplek - DWO",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "IAM Aanbesteding - SaaS",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "BBS-IAM functionaliteit - SaaS",
+    "ring": "assess",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Cordys vervanging - Handhaving",
+    "ring": "trial",
     "quadrant": "Business",
     "isNew": "TRUE",
     "description": "test"
