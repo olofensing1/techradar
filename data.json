@@ -63,7 +63,7 @@
     "description": "test"
   },
   {
-    "name": "Modas",
+    "name": "Modas - Data Team",
     "ring": "adopt",
     "quadrant": "Business",
     "isNew": "TRUE",
@@ -76,8 +76,127 @@
     "isNew": "TRUE",
     "description": "test"
   },
+   {
+    "name": "Bos - Toezicht",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+   {
+    "name": "Sharepoint online - DWO",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
   {
-    "name": "Apache Kafka",
+    "name": "Microsoft Teams - DWO",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "M365 Backup - DWO",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Dynamics 365 SaaS - CRM",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "VDT",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Automatische Ontheffing - Ontheffing",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Workflow Management - Ontheffing",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Artikel 147 - Parkeren",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Socrata load proces",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Socrata blauwdruk - Parkeren",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Publicatie voertuigenrapporten P+R",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "KvK koppeling P+R",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Vervangen Octopus SaaS - RDM",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+    {
+    "name": "Vervangen Corsa SaaS - RDM",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+   {
+    "name": "Socrate - Data Team",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Bus - Data Team",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+    {
+    "name": "Azure Policy's",
     "ring": "trial",
     "quadrant": "Fundering",
     "isNew": "FALSE",
