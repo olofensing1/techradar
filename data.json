@@ -1,79 +1,30 @@
 [
   {
-    "name": "Team Cloud bouwblokken",
+    "name": "Babel",
     "ring": "adopt",
-    "quadrant": "techniek",
+    "quadrant": "Business",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Azure Policies",
+    "name": "Apache Kafka",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Kennis & Kunde",
     "ring": "assess",
-    "quadrant": "techniek",
+    "quadrant": "platforms",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Integratie Hub",
-    "ring": "assess",
-    "quadrant": "techniek",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Broadcom API GW",
-    "ring": "trial",
-    "quadrant": "techniek",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Diginetwerk",
-    "ring": "adopt",
-    "quadrant": "techniek",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Bos",
-    "ring": "trial",
-    "quadrant": "business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "VRT",
-    "ring": "adopt",
-    "quadrant": "business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "TOL",
-    "ring": "trial",
-    "quadrant": "business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "AZ-900",
-    "ring": "assess",
-    "quadrant": "kennisKunde",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Cloud Support Team",
-    "ring": "trial",
-    "quadrant": "organisatie",
-    "isNew": "TRUE",
-    "description": "test"
-  }
-  {
-    "name": "Integratie Team",
-    "ring": "trial",
-    "quadrant": "organisatie",
-    "isNew": "TRUE",
+    "name": "GrapCloud lift and shifthQL",
+    "ring": "hold",
+    "quadrant": "Overig",
+    "isNew": "FALSE",
     "description": "test"
   }
 ]
