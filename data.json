@@ -1,5 +1,12 @@
 [
   {
+    "name": "Modas - Data Team",
+    "ring": "adopt",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
     "name": "TOL-TTH",
     "ring": "trial",
     "quadrant": "Business",
@@ -58,13 +65,6 @@
   {
     "name": "Cordys vervanging - Handhaving",
     "ring": "trial",
-    "quadrant": "Business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Modas - Data Team",
-    "ring": "adopt",
     "quadrant": "Business",
     "isNew": "TRUE",
     "description": "test"
