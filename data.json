@@ -13,14 +13,7 @@
     "isNew": "TRUE",
     "description": "test"
   },
-  {
-    "name": "TOL-VWH",
-    "ring": "assess",
-    "quadrant": "Business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
+    {
     "name": "Afas - SaaS",
     "ring": "trial",
     "quadrant": "Business",
@@ -51,13 +44,6 @@
   {
     "name": "IAM Aanbesteding - SaaS",
     "ring": "trial",
-    "quadrant": "Business",
-    "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "BBS-IAM functionaliteit - SaaS",
-    "ring": "assess",
     "quadrant": "Business",
     "isNew": "TRUE",
     "description": "test"
@@ -200,6 +186,27 @@
     "ring": "trial",
     "quadrant": "Fundering",
     "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "BBS-IAM functionaliteit - SaaS",
+    "ring": "assess",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "TOL-VWH",
+    "ring": "assess",
+    "quadrant": "Business",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+    {
+    "name": "WinFrame",
+    "ring": "hold",
+    "quadrant": "Business",
+    "isNew": "TRUE",
     "description": "test"
   },
   {
