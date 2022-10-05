@@ -378,6 +378,13 @@
     "description": "test"
   },
   {
+    "name": "Cloud maatwerk opleiding",
+    "ring": "assess",
+    "quadrant": "Kennis & Kunde",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
     "name": "Customer Journey",
     "ring": "trial",
     "quadrant": "Kennis & Kunde",
