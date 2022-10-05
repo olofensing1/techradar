@@ -407,7 +407,7 @@
   },
   {
     "name": "Cloud Support Team",
-    "ring": "hold",
+    "ring": "assess",
     "quadrant": "Organisatie",
     "isNew": "FALSE",
     "description": "test"
