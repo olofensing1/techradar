@@ -181,13 +181,6 @@
     "isNew": "TRUE",
     "description": "test"
   },
-    {
-    "name": "Azure Policy's",
-    "ring": "trial",
-    "quadrant": "Fundering",
-    "isNew": "FALSE",
-    "description": "test"
-  },
   {
     "name": "BBS-IAM functionaliteit - SaaS",
     "ring": "assess",
@@ -207,6 +200,146 @@
     "ring": "hold",
     "quadrant": "Business",
     "isNew": "TRUE",
+    "description": "test"
+  },
+    {
+    "name": "Azure Landing Zone",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Azure Policy's",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Express Route",
+    "ring": "adopt",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Aanbesteding eisen SaaS",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Broadcom API-GW",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Diginetwerk koppeling Azure",
+    "ring": "adopt",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Netwerk verkeerstromen",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Software Patronen",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Beheer tooling",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Azure AD scheiding diensten en KA",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Geautomatiseerde reviews - Identity Governance",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Defender for cloud",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Oude architectuur opruimen",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Sentinel - Integrale security monitoring",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Disaster Recovery WinFrame",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Defender for defender",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Defender for Identity - AD control en AD Onprem",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "High Privilege Access Azure (AD) control plane",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Defender for Office - Safe links, attachement, mail",
+    "ring": "assess",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Team ACP bouwblokken automatiseren",
+    "ring": "trial",
+    "quadrant": "Fundering",
+    "isNew": "FALSE",
     "description": "test"
   },
   {
