@@ -2,28 +2,77 @@
   {
     "name": "Team Cloud bouwblokken",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Techniek",
     "isNew": "TRUE",
-    "description": "test"
-  },
-  {
-    "name": "Landing Zones",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Azure Policies",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "Techniek",
     "isNew": "TRUE",
     "description": "test"
   },
   {
-    "name": "Kubernetes",
-    "ring": "hold",
-    "quadrant": "techniques",
+    "name": "Integratie Hub",
+    "ring": "assess",
+    "quadrant": "Techniek",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Broadcom API GW",
+    "ring": "trial",
+    "quadrant": "Techniek",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Diginetwerk",
+    "ring": "adopt",
+    "quadrant": "Techniek",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Bos",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "VRT",
+    "ring": "adopt",
+    "quadrant": "Business",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "TOL",
+    "ring": "trial",
+    "quadrant": "Business",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "AZ-900",
+    "ring": "assess",
+    "quadrant": "B&O - Kennis & Kunde",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Cloud Support Team",
+    "ring": "trial",
+    "quadrant": "organisatie",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+  {
+    "name": "Integratie Team",
+    "ring": "trial",
+    "quadrant": "organisatie",
     "isNew": "FALSE",
     "description": "test"
   }
