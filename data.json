@@ -38,21 +38,21 @@
     "name": "Bos",
     "ring": "trial",
     "quadrant": "business",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "VRT",
     "ring": "adopt",
     "quadrant": "business",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "TOL",
     "ring": "trial",
     "quadrant": "business",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "test"
   },
   {
@@ -66,14 +66,14 @@
     "name": "Cloud Support Team",
     "ring": "trial",
     "quadrant": "organisatie",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "test"
   }
   {
     "name": "Integratie Team",
     "ring": "trial",
     "quadrant": "organisatie",
-    "isNew": "FALSE",
+    "isNew": "TRUE",
     "description": "test"
   }
 ]
