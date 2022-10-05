@@ -350,6 +350,55 @@
     "description": "test"
   },
   {
+    "name": "Kennis generieke services Monitoring, Logging, Netwerken",
+    "ring": "assess",
+    "quadrant": "Kennis & Kunde",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Agile RBB",
+    "ring": "assess",
+    "quadrant": "Organisatie",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Threatmodeling",
+    "ring": "assess",
+    "quadrant": "Organisatie",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Kennis generieke services",
+    "ring": "assess",
+    "quadrant": "Kennis & Kunde",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Customer Journey",
+    "ring": "trial",
+    "quadrant": "Kennis & Kunde",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Innersource/Co-creatie",
+    "ring": "assess",
+    "quadrant": "Organisatie",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Integratie team inrichten",
+    "ring": "assess",
+    "quadrant": "Organisatie",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
     "name": "Cloud Support Team",
     "ring": "hold",
     "quadrant": "Organisatie",
